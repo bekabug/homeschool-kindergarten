@@ -1,12 +1,12 @@
 # Kindergarten, 2019-2020
 Our Family's Kindergarten Plan
 
-##Overview
+## Overview
 * 240 minutes a day
 * 180 days
 * Beginning August 8, 2019
 
-##The Subjects
+## The Subjects
 
 ### Language Arts
 * Phonics
@@ -70,7 +70,7 @@ Our Family's Kindergarten Plan
 * Drum
 * Listening & Appreciating
 
-##The Schedule
+## The Schedule
 
 ### Science Day
 <table class="Table2" cellspacing="0" cellpadding="0" border="0">
@@ -260,7 +260,7 @@ Our Family's Kindergarten Plan
     </tbody>
 </table>
 
-###Math Day
+### Math Day
 <table class="Table1" cellspacing="0" cellpadding="0" border="0">
     <colgroup>
         <col width="194">
