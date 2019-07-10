@@ -1,5 +1,8 @@
 # Kindergarten, 2019-2020
-Our Family's Kindergarten Plan
+Our Family's Kindergarten Plan. 
+Buy any books used where possible.
+
+The curriculum book list can be found [here](https://github.com/bekabug/homeschool-kindergarten/blob/master/booklist.md) and the literature list can be found [here](https://github.com/bekabug/homeschool-kindergarten/blob/master/literature.md)
 
 ## Overview
 * 240 minutes a day
