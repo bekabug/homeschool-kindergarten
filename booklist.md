@@ -18,11 +18,15 @@
 
 [Kumon Thinking Skills Workbooks SET II](https://www.amazon.com/Kumon-Thinking-Skills-Workbooks-SET/dp/B07K36RQ73/ref=sr_1_3?keywords=kumon+logic&qid=1562725293&s=gateway&sr=8-3)
 
+[Building Thinking Skills® Primary](https://www.amazon.com/Building-Thinking-Skills%C2%AE-Primary-Sandra/dp/0894558870/ref=pd_bxgy_14_3/135-9291071-7570146?_encoding=UTF8&pd_rd_i=0894558870&pd_rd_r=d9e6c3e1-a36e-11e9-a94e-716468749152&pd_rd_w=A8IOI&pd_rd_wg=y5WPS&pf_rd_p=a2006322-0bc0-4db9-a08e-d168c18ce6f0&pf_rd_r=2G6TY6H25GQXBRA2CEJC&psc=1&refRID=2G6TY6H25GQXBRA2CEJC)
+
 
 ## Math
 [Singapore Primary Mathematics Level 1 Kit (US Edition), Workbooks 1A and 1B, and Textbooks 1A and 1B](https://www.amazon.com/dp/B00OHX4XRC/?coliid=I1LW630P0VPPWK&colid=2SBGIPEIOB6FI&psc=1&ref_=lv_ov_lig_dp_it)
 
 [Primary Math Intensive Practice 1A and 1B](https://www.amazon.com/Primary-Math-Intensive-Practice-1A/dp/B071Y5Y296/ref=pd_sbs_14_3/135-9291071-7570146?_encoding=UTF8&pd_rd_i=B071Y5Y296&pd_rd_r=7d782a2d-a2b8-11e9-9768-fd03c2f337af&pd_rd_w=l4Q0x&pd_rd_wg=qDZnb&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=VDDZCMGRMR002N41PHXE&psc=1&refRID=VDDZCMGRMR002N41PHXE)
+
+[hand2mind Plastic Attribute Blocks](https://www.amazon.com/ETA-hand2mind-Attribute-Assorted-Geometry/dp/B016C3HG6E/ref=sr_1_1?keywords=hand2mind+Attribute+Blocks&qid=1562803464&s=books&sr=8-1)
 
 ## Health
 [Harcourt Health & Fitness: Student Edition Grade 1, textbook](https://www.amazon.com/Harcourt-Health-Fitness-Student-Grade/dp/0153551224/ref=pd_sbs_14_2/135-9291071-7570146?_encoding=UTF8&pd_rd_i=0153551224&pd_rd_r=c7840939-a2b5-11e9-b61a-832b178781ff&pd_rd_w=VlSOS&pd_rd_wg=Y0Kye&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=H4SA9YHWYB6QNY1KZV62&psc=1&refRID=H4SA9YHWYB6QNY1KZV62)
@@ -37,6 +41,8 @@
 [180 Days of Social Studies: Grade K - Daily Geography Workbook](https://www.amazon.com/180-Days-Geography-Kindergarten-Practice/dp/1425833012/ref=sr_1_1?keywords=kindergarten+geography&qid=1554824929&s=gateway&sr=8-1)
 
 [Children's Encyclopedia of American History](https://www.amazon.com/Childrens-Encyclopedia-American-History-DK/dp/1465428437/ref=sr_1_3?keywords=children%27s+history+books&qid=1554827487&s=gateway&sr=8-3)
+
+[The Usborne Encyclopedia of World History](https://www.amazon.com/Usborne-Encyclopedia-World-History/dp/0794528333/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1471974608&sr=1-1&keywords=Usborne+History+Books&linkCode=sl1&tag=schomonk-20&linkId=8acd5d2a566a68d909ccab075083bc30)
 
 <hr />
 These are not affiliate links
